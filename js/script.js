@@ -37,7 +37,7 @@
       id: 1,
       name: ' بانيه بطاطس صغير',
       description: 'بانيه فريش مع بطاطس',
-      price: 80,
+      price: 90,
       category: 'burgers',
       image: 'images/food/بانيه بطاطس صغير.jpeg'
     },
@@ -45,7 +45,7 @@
       id: 2,
       name: ' بانيه بطاطس وسط',
       description: 'بانيه فريش مع بطاطس',
-      price: 90,
+      price: 100,
       category: 'burgers',
       image: 'images/food/بانيه بطاطس وسط.jpeg'
     },
@@ -53,7 +53,7 @@
       id: 3,
       name: ' بانيه بطاطس كبير',
       description: 'بانيه فريش مع بطاطس',
-      price: 100,
+      price: 110,
       category: 'burgers',
       image: 'images/food/بانيه بطاطس كبير.jpeg'
     },
@@ -62,7 +62,7 @@
       id: 4,
       name: 'استريبس بطاطس صغير',
       description: '',
-      price: 100,
+      price: 110,
       category: 'burgers',
       image: 'images/food/بانيه بطاطس صغير.jpeg'
     },
@@ -70,7 +70,7 @@
       id: 5,
       name: 'استريبس بطاطس وسط',
       description: '',
-      price: 110,
+      price: 120,
       category: 'burgers',
       image: 'images/food/بانيه بطاطس وسط.jpeg'
     },
@@ -78,7 +78,7 @@
       id: 6,
       name: 'استريبس بطاطس كبير',
       description: '',
-      price: 120,
+      price: 130,
       category: 'burgers',
       image: 'images/food/بانيه بطاطس كبير.jpeg'
     },
@@ -86,7 +86,7 @@
       id: 7,
       name: 'شيش بطاطس صغير',
       description: '',
-      price: 105,
+      price: 115,
       category: 'burgers',
       image: 'images/food/شيش بطاطس صغير.jpeg'
     },
@@ -94,7 +94,7 @@
       id: 8,
       name: 'شيش بطاطس وسط',
       description: '',
-      price: 120,
+      price: 130,
       category: 'burgers',
       image: 'images/food/شيش بطاطس وسط.jpeg'
     },
@@ -102,7 +102,7 @@
       id: 9,
       name: 'شيش بطاطس كبير',
       description: '',
-      price: 130,
+      price: 140,
       category: 'burgers',
       image: 'images/food/شيش بطاطس كبير.jpeg'
     },
@@ -110,7 +110,7 @@
       id: 10,
       name: 'شيش استريبس صغير',
       description: '',
-      price: 110,
+      price: 120,
       category: 'burgers',
       image: 'images/food/شيش استريبس صغير.jpeg'
     },
@@ -118,7 +118,7 @@
       id: 11,
       name: 'شيش استريبس وسط',
       description: '',
-      price: 120,
+      price: 130,
       category: 'burgers',
       image: 'images/food/شيش استريبس وسط.jpeg'
     },
@@ -126,7 +126,7 @@
       id: 12,
       name: 'شيش استريبس كبير',
       description: '',
-      price: 130,
+      price: 140,
       category: 'burgers',
       image: 'images/food/شيش استريبس كبير.jpeg'
     },
@@ -134,7 +134,7 @@
       id: 13,
       name: 'استريبس وشيش وبانيه صغير',
       description: '',
-      price: 110,
+      price: 120,
       category: 'burgers',
       image: 'images/food/استريبس وشيش وبانيه صغير.jpeg'
     },
@@ -142,7 +142,7 @@
       id: 14,
       name: 'استريبس وشيش وبانيه وسط',
       description: 'سموثي مانجو طبيعي سائق مع حليب مخفوق وشريحة مانجو طازجة',
-      price: 120,
+      price: 130,
       category: 'burgers',
       image: 'images/food/استريبس وشيش وبانيه وسط.jpeg'
     },
@@ -150,7 +150,7 @@
       id: 15,
       name: 'استريبس وشيش وبانيه كبير',
       description: '',
-      price: 130,
+      price: 140,
       category: 'burgers',
       image: 'images/food/استريبس وشيش وبانيه كبير.jpeg'
     },
@@ -158,7 +158,7 @@
       id: 16,
       name: 'ميكس فراخ صغير',
       description: '',
-      price: 110,
+      price: 120,
       category: 'burgers',
       image: 'images/food/ميكس فراخ صغير.jpeg'
     },
@@ -166,7 +166,7 @@
       id: 17,
       name: 'ميكس فراخ وسط',
       description: '',
-      price: 120,
+      price: 130,
       category: 'burgers',
       image: 'images/food/ميكس فراخ وسط.jpeg'
     },
@@ -174,7 +174,7 @@
       id: 18,
       name: 'ميكس فراخ كبير',
       description: '',
-      price: 130,
+      price: 140,
       category: 'burgers',
       image: 'images/food/ميكس فراخ كبير.png'
     },
@@ -182,7 +182,7 @@
       id: 19,
       name: 'ميكس لحوم صغير',
       description: '',
-      price: 110,
+      price: 120,
       category: 'burgers',
       image: 'images/food/ميكس لحوم صغير.png'
     },
@@ -190,7 +190,7 @@
       id: 20,
       name: 'ميكس لحوم وسط',
       description: '',
-      price: 120,
+      price: 130,
       category: 'burgers',
       image: 'images/food/ميكس لحوم وسط.jpeg'
     },
@@ -198,7 +198,7 @@
       id: 21,
       name: 'ميكس لحوم كبير',
       description: '',
-      price: 130,
+      price: 140,
       category: 'burgers',
       image: 'images/food/ميكس لحوم كبير.png'
     },
@@ -206,7 +206,7 @@
       id: 22,
       name: 'ميكس حلال صغير',
       description: '',
-      price: 150,
+      price: 160,
       category: 'burgers',
       image: 'images/food/'
     },
@@ -214,7 +214,7 @@
       id: 23,
       name: 'ميكس حلال كبير',
       description: '',
-      price: 250,
+      price: 260,
       category: 'burgers',
       image: 'images/food/'
     },
@@ -222,7 +222,7 @@
       id: 24,
       name: 'كريب بطاطس صغير',
       description: '',
-      price: 45,
+      price: 55,
       category: 'crepes',
       image: 'images/food/كريب بطاطس صغير.jpeg'
     },
@@ -230,7 +230,7 @@
       id: 25,
       name: 'كريب بطاطس وسط',
       description: '',
-      price: 55,
+      price: 65,
       category: 'crepes',
       image: 'images/food/كريب بطاطس وسط.jpeg'
     },
@@ -238,7 +238,7 @@
       id: 26,
       name: 'كريب بطاطس كبير',
       description: '',
-      price: 65,
+      price: 75,
       category: 'crepes',
       image: 'images/food/كريب بطاطس كبير.jpeg'
     },
@@ -246,7 +246,7 @@
       id: 27,
       name: 'كريب بانيه صغير',
       description: '',
-      price: 70,
+      price: 80,
       category: 'crepes',
       image: 'images/food/كريب بانيه صغير.jpeg'
     },
@@ -254,7 +254,7 @@
       id: 28,
       name: 'كريب بانيه وسط',
       description: '',
-      price: 80,
+      price: 90,
       category: 'crepes',
       image: 'images/food/كريب بانيه وسط.jpeg'
     },
@@ -262,7 +262,7 @@
       id: 29,
       name: 'كريب بانيه كبير',
       description: '',
-      price: 90,
+      price: 100,
       category: 'crepes',
       image: 'images/food/كريب بانيه كبير.jpeg'
     },
@@ -270,7 +270,7 @@
       id: 30,
       name: 'كريب كريسبي صغير',
       description: '',
-      price: 80,
+      price: 90,
       category: 'crepes',
       image: 'images/food/كريسبي صغير.jpeg'
     },
@@ -278,7 +278,7 @@
       id: 31,
       name: 'كريب كريسبي وسط',
       description: '',
-      price: 90,
+      price: 100,
       category: 'crepes',
       image: 'images/food/كريسبي وسط.jpeg'
     },
@@ -286,7 +286,7 @@
       id: 32,
       name: 'كريب كريسبي كبير',
       description: '',
-      price: 100,
+      price: 110,
       category: 'crepes',
       image: 'images/food/كريسبي كبير.jpeg'
     },
@@ -294,7 +294,7 @@
       id: 33,
       name: 'كريب بانيه بلدي صغير',
       description: '',
-      price: 90,
+      price: 100,
       category: 'crepes',
       image: 'images/food/بانيه بلدي صغير.jpeg'
     },
@@ -302,7 +302,7 @@
       id: 34,
       name: 'كريب بانيه بلدي وسط',
       description: '',
-      price: 100,
+      price: 110,
       category: 'crepes',
       image: 'images/food/بانيه بلدي وسط.jpeg'
     },
@@ -310,7 +310,7 @@
       id: 35,
       name: 'كريب بانيه بلدي كبير',
       description: '',
-      price: 110,
+      price: 120,
       category: 'crepes',
       image: 'images/food/بانيه بلدي كبير.jpeg'
     },
@@ -318,7 +318,7 @@
       id: 36,
       name: 'كريب استريبس صغير',
       description: '',
-      price: 100,
+      price: 110,
       category: 'crepes',
       image: 'images/food/استريبس صغير.jpeg'
     },
@@ -326,7 +326,7 @@
       id: 37,
       name: 'كريب استريبس وسط',
       description: '',
-      price: 110,
+      price: 120,
       category: 'crepes',
       image: 'images/food/استريبس وسط.jpeg'
     },
@@ -334,7 +334,7 @@
       id: 38,
       name: 'كريب استريبس كبير',
       description: '',
-      price: 120,
+      price: 130,
       category: 'crepes',
       image: 'images/food/استريبس كبير.jpeg'
     },
@@ -342,7 +342,7 @@
       id: 39,
       name: 'كريب سوبر كرانشي صغير',
       description: '',
-      price: 100,
+      price: 110,
       category: 'crepes',
       image: 'images/food/سوبر كرانشي صغير.jpeg'
     },
@@ -350,7 +350,7 @@
       id: 40,
       name: 'كريب سوبر كرانشي وسط',
       description: '',
-      price: 110,
+      price: 120,
       category: 'crepes',
       image: 'images/food/سوبر كرانشي وسط.jpeg'
     },
@@ -358,7 +358,7 @@
       id: 41,
       name: 'كريب سوبر كرانشي كبير',
       description: '',
-      price: 120,
+      price: 130,
       category: 'crepes',
       image: 'images/food/سوبر كرانشي كبير.jpeg'
     },
@@ -366,7 +366,7 @@
       id: 42,
       name: 'كريب زنجر صغير',
       description: '',
-      price: 100,
+      price: 110,
       category: 'crepes',
       image: 'images/food/كريب زنجر صغير.jpeg'
     },
@@ -374,7 +374,7 @@
       id: 43,
       name: 'كريب زنجر وسط',
       description: '',
-      price: 110,
+      price: 120,
       category: 'crepes',
       image: 'images/food/كريب زنجر وسط.png'
     },
@@ -382,7 +382,7 @@
       id: 44,
       name: 'كريب زنجر كبير',
       description: '',
-      price: 120,
+      price: 130,
       category: 'crepes',
       image: 'images/food/كريب زنجر كبير.jpeg'
     },
@@ -390,7 +390,7 @@
       id: 45,
       name: 'كريب كوردن بلو صغير',
       description: '',
-      price: 100,
+      price: 110,
       category: 'crepes',
       image: 'images/food/كريب كوردن بلو.jpeg'
     },
@@ -398,7 +398,7 @@
       id: 46,
       name: 'كريب كوردن بلو وسط',
       description: '',
-      price: 110,
+      price: 120,
       category: 'crepes',
       image: 'images/food/كريب كوردن بلو.jpeg'
     },
@@ -406,7 +406,7 @@
       id: 47,
       name: 'كريب كوردن بلو كبير',
       description: '',
-      price: 120,
+      price: 130,
       category: 'crepes',
       image: 'images/food/كريب كوردن بلو.jpeg'
     },
@@ -414,7 +414,7 @@
       id: 48,
       name: 'كريب شيش طاووق صغير',
       description: '',
-      price: 100,
+      price: 110,
       category: 'crepes',
       image: 'images/food/شيش طاووق صغير ووسط.jpeg'
     },
@@ -422,7 +422,7 @@
       id: 49,
       name: 'كريب شيش طاووق وسط',
       description: '',
-      price: 110,
+      price: 120,
       category: 'crepes',
       image: 'images/food/شيش طاووق صغير ووسط.jpeg'
     },
@@ -430,7 +430,7 @@
       id: 50,
       name: 'كريب شيش طاووق كبير',
       description: '',
-      price: 120,
+      price: 130,
       category: 'crepes',
       image: 'images/food/شيش طاووق كبير.jpeg'
     },
@@ -438,7 +438,7 @@
       id: 51,
       name: 'كريب شاورما فراخ صغير',
       description: '',
-      price: 100,
+      price: 110,
       category: 'crepes',
       image: 'images/food/شاورما فراخ صغير.jpeg'
     },
@@ -446,7 +446,7 @@
       id: 52,
       name: 'كريب شاورما فراخ وسط',
       description: '',
-      price: 110,
+      price: 120,
       category: 'crepes',
       image: 'images/food/شاورما فراخ كبير ووسط.jpeg'
     },
@@ -454,7 +454,7 @@
       id: 53,
       name: 'كريب شاورما فراخ كبير',
       description: '',
-      price: 120,
+      price: 130,
       category: 'crepes',
       image: 'images/food/شاورما فراخ كبير ووسط.jpeg'
     },
@@ -462,7 +462,7 @@
       id: 54,
       name: 'كريب فاهيتا صغير',
       description: '',
-      price: 100,
+      price: 110,
       category: 'crepes',
       image: 'images/food/فاهيتا.jpeg'
     },
@@ -470,7 +470,7 @@
       id: 55,
       name: 'كريب فاهيتاوسط',
       description: '',
-      price: 110,
+      price: 120,
       category: 'crepes',
       image: 'images/food/فاهيتا.jpeg'
     },
@@ -478,7 +478,7 @@
       id: 56,
       name: 'كريب فاهيتا كبير',
       description: '',
-      price: 120,
+      price: 130,
       category: 'crepes',
       image: 'images/food/فاهيتا.jpeg'
     },
@@ -486,7 +486,7 @@
       id: 57,
       name: 'كريب برجر لحمه صغير',
       description: '',
-      price: 80,
+      price: 90,
       category: 'crepes',
       image: 'images/food/برجر لحمه.jpeg'
     },
@@ -494,7 +494,7 @@
       id: 58,
       name: 'كريب برجر لحمه وسط',
       description: '',
-      price: 90,
+      price: 100,
       category: 'crepes',
       image: 'images/food/برجر لحمه.jpeg'
     },
@@ -502,7 +502,7 @@
       id: 59,
       name: 'كريب برجر لحمه كبير',
       description: '',
-      price: 100,
+      price: 110,
       category: 'crepes',
       image: 'images/food/برجر لحمه.jpeg'
     },
@@ -510,7 +510,7 @@
       id: 60,
       name: 'كريب كفته صغير',
       description: '',
-      price: 70,
+      price: 80,
       category: 'crepes',
       image: 'images/food/كفته.jpeg'
     },
@@ -518,7 +518,7 @@
       id: 61,
       name: 'كريب كفته وسط',
       description: '',
-      price: 80,
+      price: 90,
       category: 'crepes',
       image: 'images/food/كفته.jpeg'
     },
@@ -526,7 +526,7 @@
       id: 62,
       name: 'كريب كفته كبير',
       description: '',
-      price: 90,
+      price: 100,
       category: 'crepes',
       image: 'images/food/كفته.jpeg'
     },
@@ -534,7 +534,7 @@
       id: 63,
       name: 'كريب سجق صغير',
       description: '',
-      price: 70,
+      price: 80,
       category: 'crepes',
       image: 'images/food/سجق.jpeg'
     },
@@ -542,7 +542,7 @@
       id: 64,
       name: 'كريب سجق وسط',
       description: '',
-      price: 80,
+      price: 90,
       category: 'crepes',
       image: 'images/food/سجق.jpeg'
     },
@@ -550,7 +550,7 @@
       id: 65,
       name: 'كريب سجق كبير',
       description: '',
-      price: 90,
+      price: 100,
       category: 'crepes',
       image: 'images/food/سجق.jpeg'
     },
@@ -558,7 +558,7 @@
       id: 66,
       name: 'كريب سوسيس صغير',
       description: '',
-      price: 60,
+      price: 70,
       category: 'crepes',
       image: 'images/food/سوسيس.jpeg'
     },
@@ -566,7 +566,7 @@
       id: 67,
       name: 'كريب سوسيس وسط',
       description: '',
-      price: 70,
+      price: 80,
       category: 'crepes',
       image: 'images/food/سوسيس.jpeg'
     },
@@ -574,7 +574,7 @@
       id: 68,
       name: 'كريب سوسيس كبير',
       description: '',
-      price: 80,
+      price: 90,
       category: 'crepes',
       image: 'images/food/سوسيس.jpeg'
     },
@@ -582,7 +582,7 @@
       id: 69,
       name: 'كريب شاورما لحمه صغير',
       description: '',
-      price: 110,
+      price: 120,
       category: 'crepes',
       image: 'images/food/شاورما لحمه.jpeg'
     },
@@ -590,7 +590,7 @@
       id: 70,
       name: 'كريب شاورما لحمه وسط',
       description: '',
-      price: 120,
+      price: 130,
       category: 'crepes',
       image: 'images/food/شاورما لحمه.jpeg'
     },
@@ -598,7 +598,7 @@
       id: 71,
       name: 'كريب شاورما لحمه كبير',
       description: '',
-      price: 130,
+      price: 140,
       category: 'crepes',
       image: 'images/food/شاورما لحمه.jpeg'
     },
@@ -606,7 +606,7 @@
       id: 72,
       name: 'كريب نوتيلا',
       description: '',
-      price: 50,
+      price: 60,
       category: 'drinks',
       image: 'images/food/نوتيلا.png'
     },
@@ -614,7 +614,7 @@
       id: 73,
       name: 'كريب نوتيلا موز',
       description: '',
-      price: 60,
+      price: 70,
       category: 'drinks',
       image: 'images/food/نوتيلا موز.png'
     },
@@ -622,7 +622,7 @@
       id: 74,
       name: 'كريب نوتيلا هوهوز',
       description: '',
-      price: 60,
+      price: 70,
       category: 'drinks',
       image: 'images/food/نوتيلا هوهوز.png'
     },
@@ -630,7 +630,7 @@
       id: 75,
       name: 'كريب نوتيلا بندق',
       description: '',
-      price: 70,
+      price: 80,
       category: 'drinks',
       image: 'images/food/نوتيلا بندق.png'
     },
@@ -638,7 +638,7 @@
       id: 76,
       name: 'باكيت بطاطس صغير',
       description: '',
-      price: 20,
+      price: 30,
       category: 'mokabl',
       image: 'images/food/بطاطس.jpg'
     },
@@ -646,7 +646,7 @@
       id: 77,
       name: 'باكيت بطاطس وسط',
       description: '',
-      price: 30,
+      price: 40,
       category: 'mokabl',
       image: 'images/food/بطاطس.jpg'
     },
@@ -654,7 +654,7 @@
       id: 78,
       name: 'باكيت بطاطس كبير',
       description: '',
-      price: 40,
+      price: 50,
       category: 'mokabl',
       image: 'images/food/بطاطس.jpg'
     },
@@ -662,7 +662,7 @@
       id: 79,
       name: 'طبق مخلل',
       description: '',
-      price: 10,
+      price: 20,
       category: 'mokabl',
       image: 'images/food/مخلل.jpg'
     },
@@ -670,7 +670,7 @@
       id: 80,
       name: 'كاتشب',
       description: '',
-      price: 10,
+      price: 20,
       category: 'mokabl',
       image: 'images/food/كاتشب.jpg'
     },
@@ -678,7 +678,7 @@
       id: 81,
       name: 'مايونيز',
       description: '',
-      price: 10,
+      price: 20,
       category: 'mokabl',
       image: 'images/food/مايونيز.jpg'
     },
@@ -686,7 +686,7 @@
       id: 82,
       name: 'بطاطس شيدر',
       description: '',
-      price: 50,
+      price: 60,
       category: 'mokabl',
       image: 'images/food/بطاطس شيدر.jpg'
     },
@@ -694,7 +694,7 @@
       id: 83,
       name: 'مقبلات حلال',
       description: 'استريبس+خضار+جبنه+بطاطس',
-      price: 70,
+      price: 80,
       category: 'mokabl',
       image: 'images/food/مقبلات حلال.jpeg'
     },
@@ -702,7 +702,7 @@
       id: 84,
       name: 'فرنساوي بانيه فريش',
       description: '',
-      price: 50,
+      price: 60,
       category: 'chicken',
       image: 'images/food/بانيه فريش ساندوتش.jpg'
     },
@@ -710,7 +710,7 @@
       id: 85,
       name: 'فرنساوي بانيه عادي',
       description: '',
-      price: 30,
+      price: 40,
       category: 'chicken',
       image: 'images/food/بانيه عادي فرنساوي.jpg'
     },
@@ -718,7 +718,7 @@
       id: 86,
       name: 'فرنساوي كريسبي او استريبس',
       description: '',
-      price: 50,
+      price: 60,
       category: 'chicken',
       image: 'images/food/كريسبي او استريبس فرنساوي.jpg'
     },
@@ -726,7 +726,7 @@
       id: 87,
       name: 'فرنساوي فاهيتا',
       description: '',
-      price: 50,
+      price: 60,
       category: 'chicken',
       image: 'images/food/فاهيتا فرنساوي.jpg'
     },
@@ -734,7 +734,7 @@
       id: 88,
       name: 'فرنساوي بطاطس',
       description: '',
-      price: 20,
+      price: 30,
       category: 'chicken',
       image: 'images/food/بطاطس فرنساوي.png'
     },
@@ -742,7 +742,7 @@
       id: 89,
       name: 'فرنساوي كبده',
       description: '',
-      price: 25,
+      price: 35,
       category: 'chicken',
       image: 'images/food/كبده فرنساوي.jpg'
     },
@@ -750,7 +750,7 @@
       id: 90,
       name: 'فرنساوي سجق',
       description: '',
-      price: 30,
+      price: 40,
       category: 'chicken',
       image: 'images/food/سجق فرنساوي.jpg'
     },
@@ -758,7 +758,7 @@
       id: 91,
       name: 'فرنساوي كوردن بلو',
       description: '',
-      price: 50,
+      price: 60,
       category: 'chicken',
       image: 'images/food/كوردن بلو فرنساوي.png'
     },
@@ -766,7 +766,7 @@
       id: 92,
       name: 'فرنساوي شاورما فراخ',
       description: '',
-      price: 55,
+      price: 65,
       category: 'chicken',
       image: 'images/food/شاورما فراخ فرنساوي.jpg'
     },
