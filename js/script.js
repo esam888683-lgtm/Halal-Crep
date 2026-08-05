@@ -779,7 +779,7 @@
   ];
 
   // WhatsApp phone number - Change this to your number
-  const WHATSAPP_NUMBER = '+201023266160';
+  const WHATSAPP_NUMBER = '201023266160';
 
   // ============================================================
   // DOM ELEMENTS
